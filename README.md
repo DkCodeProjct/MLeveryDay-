@@ -1,4 +1,4 @@
-<p>In this repo, I will add some facts about machine learning that I'm learning from the book I'm reading now, which is "Statquest-Illustrated-Guide-to-Machine-Learning"</p>
+<p><span style="font-size: 1.2em;">In this repo</span>, I will add some facts about machine learning that I'm learning from the book I'm reading now, which is "Statquest-Illustrated-Guide-to-Machine-Learning"</p>
 
 <ol>
   <li>
